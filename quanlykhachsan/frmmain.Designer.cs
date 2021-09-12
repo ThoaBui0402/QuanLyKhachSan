@@ -30,6 +30,7 @@
         {
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
             this.tpTraPhong = new System.Windows.Forms.TabPage();
+            this.label10 = new System.Windows.Forms.Label();
             this.groupBox9 = new System.Windows.Forms.GroupBox();
             this.dgtraphong = new System.Windows.Forms.DataGridView();
             this.groupBox8 = new System.Windows.Forms.GroupBox();
@@ -92,7 +93,6 @@
             this.btndangxuat = new System.Windows.Forms.Button();
             this.label2 = new System.Windows.Forms.Label();
             this.Tabphong = new System.Windows.Forms.TabControl();
-            this.label10 = new System.Windows.Forms.Label();
             this.tpTraPhong.SuspendLayout();
             this.groupBox9.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgtraphong)).BeginInit();
@@ -119,6 +119,18 @@
             this.tpTraPhong.TabIndex = 3;
             this.tpTraPhong.Text = "Trả Phòng";
             this.tpTraPhong.UseVisualStyleBackColor = true;
+            // 
+            // label10
+            // 
+            this.label10.AutoSize = true;
+            this.label10.Font = new System.Drawing.Font("Times New Roman", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
+            this.label10.ForeColor = System.Drawing.Color.Red;
+            this.label10.Location = new System.Drawing.Point(423, 13);
+            this.label10.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label10.Name = "label10";
+            this.label10.Size = new System.Drawing.Size(361, 31);
+            this.label10.TabIndex = 50;
+            this.label10.Text = "THÔNG TIN THUÊ PHÒNG";
             // 
             // groupBox9
             // 
@@ -392,13 +404,16 @@
             // 
             // TPTinhTien
             // 
+            this.TPTinhTien.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.TPTinhTien.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.TPTinhTien.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
             this.TPTinhTien.Location = new System.Drawing.Point(607, 651);
             this.TPTinhTien.Margin = new System.Windows.Forms.Padding(4);
             this.TPTinhTien.Name = "TPTinhTien";
             this.TPTinhTien.Size = new System.Drawing.Size(107, 39);
             this.TPTinhTien.TabIndex = 4;
             this.TPTinhTien.Text = "Tính Tiền";
-            this.TPTinhTien.UseVisualStyleBackColor = true;
+            this.TPTinhTien.UseVisualStyleBackColor = false;
             // 
             // tpThuePhong
             // 
@@ -416,23 +431,29 @@
             // 
             // bHuyBo
             // 
+            this.bHuyBo.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.bHuyBo.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.bHuyBo.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
             this.bHuyBo.Location = new System.Drawing.Point(672, 569);
             this.bHuyBo.Margin = new System.Windows.Forms.Padding(4);
             this.bHuyBo.Name = "bHuyBo";
             this.bHuyBo.Size = new System.Drawing.Size(153, 47);
             this.bHuyBo.TabIndex = 24;
             this.bHuyBo.Text = "Hủy bỏ";
-            this.bHuyBo.UseVisualStyleBackColor = true;
+            this.bHuyBo.UseVisualStyleBackColor = false;
             // 
             // btThuePhongOK
             // 
+            this.btThuePhongOK.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.btThuePhongOK.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.btThuePhongOK.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
             this.btThuePhongOK.Location = new System.Drawing.Point(369, 569);
             this.btThuePhongOK.Margin = new System.Windows.Forms.Padding(4);
             this.btThuePhongOK.Name = "btThuePhongOK";
             this.btThuePhongOK.Size = new System.Drawing.Size(153, 47);
             this.btThuePhongOK.TabIndex = 23;
             this.btThuePhongOK.Text = "OK";
-            this.btThuePhongOK.UseVisualStyleBackColor = true;
+            this.btThuePhongOK.UseVisualStyleBackColor = false;
             // 
             // groupBox5
             // 
@@ -768,7 +789,8 @@
             // 
             // btndangxuat
             // 
-            this.btndangxuat.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.btndangxuat.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.btndangxuat.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btndangxuat.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
             this.btndangxuat.Location = new System.Drawing.Point(1137, 25);
             this.btndangxuat.Margin = new System.Windows.Forms.Padding(4);
@@ -803,18 +825,6 @@
             this.Tabphong.SelectedIndex = 0;
             this.Tabphong.Size = new System.Drawing.Size(1347, 735);
             this.Tabphong.TabIndex = 0;
-            // 
-            // label10
-            // 
-            this.label10.AutoSize = true;
-            this.label10.Font = new System.Drawing.Font("Times New Roman", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
-            this.label10.ForeColor = System.Drawing.Color.Red;
-            this.label10.Location = new System.Drawing.Point(423, 13);
-            this.label10.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
-            this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(361, 31);
-            this.label10.TabIndex = 50;
-            this.label10.Text = "THÔNG TIN THUÊ PHÒNG";
             // 
             // frmmain
             // 
