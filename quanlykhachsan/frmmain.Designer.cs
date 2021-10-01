@@ -154,6 +154,7 @@
             this.dgtraphong.RowHeadersWidth = 51;
             this.dgtraphong.Size = new System.Drawing.Size(1261, 236);
             this.dgtraphong.TabIndex = 46;
+            this.dgtraphong.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgtraphong_CellClick);
             // 
             // groupBox8
             // 
@@ -414,6 +415,7 @@
             this.TPTinhTien.TabIndex = 4;
             this.TPTinhTien.Text = "Tính Tiền";
             this.TPTinhTien.UseVisualStyleBackColor = false;
+            this.TPTinhTien.Click += new System.EventHandler(this.TPTinhTien_Click);
             // 
             // tpThuePhong
             // 
@@ -441,6 +443,7 @@
             this.bHuyBo.TabIndex = 24;
             this.bHuyBo.Text = "Hủy bỏ";
             this.bHuyBo.UseVisualStyleBackColor = false;
+            this.bHuyBo.Click += new System.EventHandler(this.bHuyBo_Click);
             // 
             // btThuePhongOK
             // 
@@ -454,6 +457,7 @@
             this.btThuePhongOK.TabIndex = 23;
             this.btThuePhongOK.Text = "OK";
             this.btThuePhongOK.UseVisualStyleBackColor = false;
+            this.btThuePhongOK.Click += new System.EventHandler(this.btThuePhongOK_Click);
             // 
             // groupBox5
             // 
@@ -496,6 +500,7 @@
             this.dgkhachhang.RowHeadersWidth = 51;
             this.dgkhachhang.Size = new System.Drawing.Size(1220, 210);
             this.dgkhachhang.TabIndex = 31;
+            this.dgkhachhang.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgkhachhang_CellClick);
             // 
             // maKhachHang
             // 
@@ -668,6 +673,7 @@
             this.checkBDatPhongTruoc.TabIndex = 27;
             this.checkBDatPhongTruoc.Text = "Đặt phòng trước :";
             this.checkBDatPhongTruoc.UseVisualStyleBackColor = true;
+            this.checkBDatPhongTruoc.CheckedChanged += new System.EventHandler(this.checkBDatPhongTruoc_CheckedChanged);
             // 
             // txtPhongtp
             // 
@@ -753,6 +759,7 @@
             this.dtgvDanhSachphong.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dtgvDanhSachphong.Size = new System.Drawing.Size(1299, 407);
             this.dtgvDanhSachphong.TabIndex = 1;
+            this.dtgvDanhSachphong.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dtgvDanhSachphong_CellClick);
             // 
             // maPhong
             // 
@@ -825,6 +832,7 @@
             this.Tabphong.SelectedIndex = 0;
             this.Tabphong.Size = new System.Drawing.Size(1347, 735);
             this.Tabphong.TabIndex = 0;
+            this.Tabphong.Click += new System.EventHandler(this.Tabphong_Click);
             // 
             // frmmain
             // 

@@ -91,3 +91,14 @@ C:\Users\asus\Desktop\QLKS\QuanLyKhachSan\BLL\obj\Debug\BLL.csproj.CoreCompileIn
 C:\Users\asus\Desktop\QLKS\QuanLyKhachSan\BLL\obj\Debug\BLL.csproj.CopyComplete
 C:\Users\asus\Desktop\QLKS\QuanLyKhachSan\BLL\obj\Debug\BLL.dll
 C:\Users\asus\Desktop\QLKS\QuanLyKhachSan\BLL\obj\Debug\BLL.pdb
+D:\QLKS\QuanLyKhachSan\BLL\bin\Debug\BLL.dll
+D:\QLKS\QuanLyKhachSan\BLL\bin\Debug\BLL.pdb
+D:\QLKS\QuanLyKhachSan\BLL\bin\Debug\DAL.dll
+D:\QLKS\QuanLyKhachSan\BLL\bin\Debug\DTO.dll
+D:\QLKS\QuanLyKhachSan\BLL\bin\Debug\DAL.pdb
+D:\QLKS\QuanLyKhachSan\BLL\bin\Debug\DTO.pdb
+D:\QLKS\QuanLyKhachSan\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\QLKS\QuanLyKhachSan\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\QLKS\QuanLyKhachSan\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\QLKS\QuanLyKhachSan\BLL\obj\Debug\BLL.dll
+D:\QLKS\QuanLyKhachSan\BLL\obj\Debug\BLL.pdb

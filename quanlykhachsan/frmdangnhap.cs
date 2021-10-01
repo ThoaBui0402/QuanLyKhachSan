@@ -24,7 +24,7 @@ public frmdangnhap()
         private void btndangnhap_Click(object sender, EventArgs e)
         {
 
-            SqlConnection con = new SqlConnection(@"Data Source=DESKTOP-J2GH96M\SQL15;Initial Catalog=quanlykhachsan;Integrated Security=True");
+            SqlConnection con = new SqlConnection(@"Data Source=DESKTOP-D7K2NI9\SQLEXPRESS;Initial Catalog=quanlykhachsan;Integrated Security=True");
             SqlDataAdapter sda = new SqlDataAdapter("Select * From [dbo].[nguoidung] where taiKhoan = '" + txttaikhoan.Text + "' and matKhau = '" + txtmatkhau.Text + "'", con);
             DataTable dt = new DataTable();
             sda.Fill(dt);
