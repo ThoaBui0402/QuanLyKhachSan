@@ -33,6 +33,7 @@
             this.quảnLýPhòngToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.quảnLýThôngTinKháchHàngToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.quảnLýNhânViênToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.hướngDẫnSửDụngToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -45,7 +46,8 @@
             this.trangChủToolStripMenuItem,
             this.quảnLýPhòngToolStripMenuItem,
             this.quảnLýThôngTinKháchHàngToolStripMenuItem,
-            this.quảnLýNhânViênToolStripMenuItem});
+            this.quảnLýNhânViênToolStripMenuItem,
+            this.hướngDẫnSửDụngToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
             this.menuStrip1.Padding = new System.Windows.Forms.Padding(17, 5, 0, 5);
@@ -56,7 +58,7 @@
             // trangChủToolStripMenuItem
             // 
             this.trangChủToolStripMenuItem.Name = "trangChủToolStripMenuItem";
-            this.trangChủToolStripMenuItem.Size = new System.Drawing.Size(98, 27);
+            this.trangChủToolStripMenuItem.Size = new System.Drawing.Size(100, 27);
             this.trangChủToolStripMenuItem.Text = "Trang chủ";
             this.trangChủToolStripMenuItem.Click += new System.EventHandler(this.trangChủToolStripMenuItem_Click);
             // 
@@ -64,7 +66,7 @@
             // 
             this.quảnLýPhòngToolStripMenuItem.Font = new System.Drawing.Font("Times New Roman", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
             this.quảnLýPhòngToolStripMenuItem.Name = "quảnLýPhòngToolStripMenuItem";
-            this.quảnLýPhòngToolStripMenuItem.Size = new System.Drawing.Size(118, 27);
+            this.quảnLýPhòngToolStripMenuItem.Size = new System.Drawing.Size(120, 27);
             this.quảnLýPhòngToolStripMenuItem.Text = "Quản lý phòng";
             this.quảnLýPhòngToolStripMenuItem.Click += new System.EventHandler(this.quảnLýPhòngToolStripMenuItem_Click);
             // 
@@ -72,7 +74,7 @@
             // 
             this.quảnLýThôngTinKháchHàngToolStripMenuItem.Font = new System.Drawing.Font("Times New Roman", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
             this.quảnLýThôngTinKháchHàngToolStripMenuItem.Name = "quảnLýThôngTinKháchHàngToolStripMenuItem";
-            this.quảnLýThôngTinKháchHàngToolStripMenuItem.Size = new System.Drawing.Size(124, 27);
+            this.quảnLýThôngTinKháchHàngToolStripMenuItem.Size = new System.Drawing.Size(126, 27);
             this.quảnLýThôngTinKháchHàngToolStripMenuItem.Text = "QL  khách hàng";
             this.quảnLýThôngTinKháchHàngToolStripMenuItem.Click += new System.EventHandler(this.quảnLýThôngTinKháchHàngToolStripMenuItem_Click);
             // 
@@ -80,9 +82,16 @@
             // 
             this.quảnLýNhânViênToolStripMenuItem.Font = new System.Drawing.Font("Times New Roman", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
             this.quảnLýNhânViênToolStripMenuItem.Name = "quảnLýNhânViênToolStripMenuItem";
-            this.quảnLýNhânViênToolStripMenuItem.Size = new System.Drawing.Size(140, 27);
+            this.quảnLýNhânViênToolStripMenuItem.Size = new System.Drawing.Size(142, 27);
             this.quảnLýNhânViênToolStripMenuItem.Text = "Quản lý nhân viên";
             this.quảnLýNhânViênToolStripMenuItem.Click += new System.EventHandler(this.quảnLýNhânViênToolStripMenuItem_Click);
+            // 
+            // hướngDẫnSửDụngToolStripMenuItem
+            // 
+            this.hướngDẫnSửDụngToolStripMenuItem.Name = "hướngDẫnSửDụngToolStripMenuItem";
+            this.hướngDẫnSửDụngToolStripMenuItem.Size = new System.Drawing.Size(182, 27);
+            this.hướngDẫnSửDụngToolStripMenuItem.Text = "Hướng dẫn sử dụng ";
+            this.hướngDẫnSửDụngToolStripMenuItem.Click += new System.EventHandler(this.hướngDẫnSửDụngToolStripMenuItem_Click);
             // 
             // frmmainquanlykhachsan
             // 
@@ -114,5 +123,6 @@
         private System.Windows.Forms.ToolStripMenuItem quảnLýThôngTinKháchHàngToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem quảnLýNhânViênToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem trangChủToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem hướngDẫnSửDụngToolStripMenuItem;
     }
 }

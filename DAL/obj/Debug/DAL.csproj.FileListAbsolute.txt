@@ -55,3 +55,9 @@ D:\QLKS\QuanLyKhachSan\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
 D:\QLKS\QuanLyKhachSan\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
 D:\QLKS\QuanLyKhachSan\DAL\obj\Debug\DAL.dll
 D:\QLKS\QuanLyKhachSan\DAL\obj\Debug\DAL.pdb
+D:\ThucTapNhom\QuanLyKhachSan\DAL\bin\Debug\DAL.dll
+D:\ThucTapNhom\QuanLyKhachSan\DAL\bin\Debug\DAL.pdb
+D:\ThucTapNhom\QuanLyKhachSan\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\ThucTapNhom\QuanLyKhachSan\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\ThucTapNhom\QuanLyKhachSan\DAL\obj\Debug\DAL.dll
+D:\ThucTapNhom\QuanLyKhachSan\DAL\obj\Debug\DAL.pdb

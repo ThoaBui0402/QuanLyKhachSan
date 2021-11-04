@@ -58,6 +58,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="fmHDSD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmHDSD.Designer.cs">
+      <DependentUpon>fmHDSD.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmdangnhap.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -102,6 +108,9 @@
     <Compile Include="frmmainquanlykhachsan.Designer.cs">
       <DependentUpon>frmmainquanlykhachsan.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="fmHDSD.resx">
+      <DependentUpon>fmHDSD.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmdangnhap.resx">
       <DependentUpon>frmdangnhap.cs</DependentUpon>
     </EmbeddedResource>

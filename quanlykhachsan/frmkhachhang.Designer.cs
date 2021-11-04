@@ -82,6 +82,7 @@
             this.dataGridView1.RowHeadersWidth = 51;
             this.dataGridView1.Size = new System.Drawing.Size(1065, 220);
             this.dataGridView1.TabIndex = 0;
+            this.dataGridView1.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellClick);
             // 
             // maKhachHang
             // 
@@ -244,6 +245,7 @@
             this.btnsua.TabIndex = 8;
             this.btnsua.Text = "&Sửa";
             this.btnsua.UseVisualStyleBackColor = false;
+            this.btnsua.Click += new System.EventHandler(this.btnsua_Click);
             // 
             // btnxoa
             // 
@@ -257,6 +259,7 @@
             this.btnxoa.TabIndex = 9;
             this.btnxoa.Text = "&Xóa";
             this.btnxoa.UseVisualStyleBackColor = false;
+            this.btnxoa.Click += new System.EventHandler(this.btnxoa_Click);
             // 
             // btnluu
             // 
@@ -270,6 +273,7 @@
             this.btnluu.TabIndex = 10;
             this.btnluu.Text = "&Lưu";
             this.btnluu.UseVisualStyleBackColor = false;
+            this.btnluu.Click += new System.EventHandler(this.btnluu_Click);
             // 
             // btnthoat
             // 
