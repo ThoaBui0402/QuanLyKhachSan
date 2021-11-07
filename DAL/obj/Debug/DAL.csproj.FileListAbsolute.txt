@@ -49,3 +49,9 @@ C:\Users\asus\Desktop\QLKS\QuanLyKhachSan\DAL\obj\Debug\DAL.csprojAssemblyRefere
 C:\Users\asus\Desktop\QLKS\QuanLyKhachSan\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
 C:\Users\asus\Desktop\QLKS\QuanLyKhachSan\DAL\obj\Debug\DAL.dll
 C:\Users\asus\Desktop\QLKS\QuanLyKhachSan\DAL\obj\Debug\DAL.pdb
+C:\Users\asus\Desktop\TTNhom\QLKS\QuanLyKhachSan\DAL\bin\Debug\DAL.dll
+C:\Users\asus\Desktop\TTNhom\QLKS\QuanLyKhachSan\DAL\bin\Debug\DAL.pdb
+C:\Users\asus\Desktop\TTNhom\QLKS\QuanLyKhachSan\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\TTNhom\QLKS\QuanLyKhachSan\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\TTNhom\QLKS\QuanLyKhachSan\DAL\obj\Debug\DAL.dll
+C:\Users\asus\Desktop\TTNhom\QLKS\QuanLyKhachSan\DAL\obj\Debug\DAL.pdb
