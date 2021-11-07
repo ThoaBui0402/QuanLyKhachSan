@@ -60,5 +60,12 @@ namespace quanlykhachsan
             frm.MdiParent = this;
             frm.Show();
         }
+
+        private void hướngDẫnSửDụngToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            fmHDSD frm = new fmHDSD();
+            frm.MdiParent = this;
+            frm.Show();
+        }
     }
 }

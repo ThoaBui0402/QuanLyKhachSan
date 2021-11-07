@@ -49,9 +49,24 @@ C:\Users\asus\Desktop\QLKS\QuanLyKhachSan\DAL\obj\Debug\DAL.csprojAssemblyRefere
 C:\Users\asus\Desktop\QLKS\QuanLyKhachSan\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
 C:\Users\asus\Desktop\QLKS\QuanLyKhachSan\DAL\obj\Debug\DAL.dll
 C:\Users\asus\Desktop\QLKS\QuanLyKhachSan\DAL\obj\Debug\DAL.pdb
+<<<<<<< HEAD
 C:\Users\asus\Desktop\TTNhom\QLKS\QuanLyKhachSan\DAL\bin\Debug\DAL.dll
 C:\Users\asus\Desktop\TTNhom\QLKS\QuanLyKhachSan\DAL\bin\Debug\DAL.pdb
 C:\Users\asus\Desktop\TTNhom\QLKS\QuanLyKhachSan\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
 C:\Users\asus\Desktop\TTNhom\QLKS\QuanLyKhachSan\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
 C:\Users\asus\Desktop\TTNhom\QLKS\QuanLyKhachSan\DAL\obj\Debug\DAL.dll
 C:\Users\asus\Desktop\TTNhom\QLKS\QuanLyKhachSan\DAL\obj\Debug\DAL.pdb
+=======
+D:\QLKS\QuanLyKhachSan\DAL\bin\Debug\DAL.dll
+D:\QLKS\QuanLyKhachSan\DAL\bin\Debug\DAL.pdb
+D:\QLKS\QuanLyKhachSan\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\QLKS\QuanLyKhachSan\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\QLKS\QuanLyKhachSan\DAL\obj\Debug\DAL.dll
+D:\QLKS\QuanLyKhachSan\DAL\obj\Debug\DAL.pdb
+D:\ThucTapNhom\QuanLyKhachSan\DAL\bin\Debug\DAL.dll
+D:\ThucTapNhom\QuanLyKhachSan\DAL\bin\Debug\DAL.pdb
+D:\ThucTapNhom\QuanLyKhachSan\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\ThucTapNhom\QuanLyKhachSan\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\ThucTapNhom\QuanLyKhachSan\DAL\obj\Debug\DAL.dll
+D:\ThucTapNhom\QuanLyKhachSan\DAL\obj\Debug\DAL.pdb
+>>>>>>> origin/QLKH
