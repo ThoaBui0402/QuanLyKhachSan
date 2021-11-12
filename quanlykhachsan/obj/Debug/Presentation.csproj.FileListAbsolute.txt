@@ -227,6 +227,33 @@ C:\Users\asus\Desktop\QLKS\QuanLyKhachSan\quanlykhachsan\obj\Debug\Presentation.
 C:\Users\asus\Desktop\QLKS\QuanLyKhachSan\quanlykhachsan\obj\Debug\Presentation.csproj.CopyComplete
 C:\Users\asus\Desktop\QLKS\QuanLyKhachSan\quanlykhachsan\obj\Debug\quanlykhachsan.exe
 C:\Users\asus\Desktop\QLKS\QuanLyKhachSan\quanlykhachsan\obj\Debug\quanlykhachsan.pdb
+<<<<<<< HEAD
+C:\Users\asus\Desktop\TTNhom\QLKS\QuanLyKhachSan\quanlykhachsan\bin\Debug\quanlykhachsan.exe.config
+C:\Users\asus\Desktop\TTNhom\QLKS\QuanLyKhachSan\quanlykhachsan\bin\Debug\quanlykhachsan.exe
+C:\Users\asus\Desktop\TTNhom\QLKS\QuanLyKhachSan\quanlykhachsan\bin\Debug\quanlykhachsan.pdb
+C:\Users\asus\Desktop\TTNhom\QLKS\QuanLyKhachSan\quanlykhachsan\bin\Debug\BLL.dll
+C:\Users\asus\Desktop\TTNhom\QLKS\QuanLyKhachSan\quanlykhachsan\bin\Debug\DAL.dll
+C:\Users\asus\Desktop\TTNhom\QLKS\QuanLyKhachSan\quanlykhachsan\bin\Debug\DTO.dll
+C:\Users\asus\Desktop\TTNhom\QLKS\QuanLyKhachSan\quanlykhachsan\bin\Debug\BLL.pdb
+C:\Users\asus\Desktop\TTNhom\QLKS\QuanLyKhachSan\quanlykhachsan\bin\Debug\DAL.pdb
+C:\Users\asus\Desktop\TTNhom\QLKS\QuanLyKhachSan\quanlykhachsan\bin\Debug\DTO.pdb
+C:\Users\asus\Desktop\TTNhom\QLKS\QuanLyKhachSan\quanlykhachsan\bin\Debug\Telerik.WinControls.xml
+C:\Users\asus\Desktop\TTNhom\QLKS\QuanLyKhachSan\quanlykhachsan\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\asus\Desktop\TTNhom\QLKS\QuanLyKhachSan\quanlykhachsan\obj\Debug\Presentation.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\TTNhom\QLKS\QuanLyKhachSan\quanlykhachsan\obj\Debug\quanlykhachsan.frmdangnhap.resources
+C:\Users\asus\Desktop\TTNhom\QLKS\QuanLyKhachSan\quanlykhachsan\obj\Debug\quanlykhachsan.frmkhachhang.resources
+C:\Users\asus\Desktop\TTNhom\QLKS\QuanLyKhachSan\quanlykhachsan\obj\Debug\quanlykhachsan.frmmain.resources
+C:\Users\asus\Desktop\TTNhom\QLKS\QuanLyKhachSan\quanlykhachsan\obj\Debug\quanlykhachsan.frmnhanvien.resources
+C:\Users\asus\Desktop\TTNhom\QLKS\QuanLyKhachSan\quanlykhachsan\obj\Debug\quanlykhachsan.frmthongtinphong.resources
+C:\Users\asus\Desktop\TTNhom\QLKS\QuanLyKhachSan\quanlykhachsan\obj\Debug\quanlykhachsan.frmthongtinpphongkh.resources
+C:\Users\asus\Desktop\TTNhom\QLKS\QuanLyKhachSan\quanlykhachsan\obj\Debug\quanlykhachsan.Properties.Resources.resources
+C:\Users\asus\Desktop\TTNhom\QLKS\QuanLyKhachSan\quanlykhachsan\obj\Debug\quanlykhachsan.frmmainquanlykhachsan.resources
+C:\Users\asus\Desktop\TTNhom\QLKS\QuanLyKhachSan\quanlykhachsan\obj\Debug\Presentation.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\TTNhom\QLKS\QuanLyKhachSan\quanlykhachsan\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\TTNhom\QLKS\QuanLyKhachSan\quanlykhachsan\obj\Debug\Presentation.csproj.CopyComplete
+C:\Users\asus\Desktop\TTNhom\QLKS\QuanLyKhachSan\quanlykhachsan\obj\Debug\quanlykhachsan.exe
+C:\Users\asus\Desktop\TTNhom\QLKS\QuanLyKhachSan\quanlykhachsan\obj\Debug\quanlykhachsan.pdb
+=======
 D:\QLKS\QuanLyKhachSan\quanlykhachsan\bin\Debug\quanlykhachsan.exe.config
 D:\QLKS\QuanLyKhachSan\quanlykhachsan\bin\Debug\quanlykhachsan.exe
 D:\QLKS\QuanLyKhachSan\quanlykhachsan\bin\Debug\quanlykhachsan.pdb
@@ -278,3 +305,4 @@ D:\ThucTapNhom\QuanLyKhachSan\quanlykhachsan\obj\Debug\Presentation.csproj.CopyC
 D:\ThucTapNhom\QuanLyKhachSan\quanlykhachsan\obj\Debug\quanlykhachsan.exe
 D:\ThucTapNhom\QuanLyKhachSan\quanlykhachsan\obj\Debug\quanlykhachsan.pdb
 D:\ThucTapNhom\QuanLyKhachSan\quanlykhachsan\obj\Debug\quanlykhachsan.fmHDSD.resources
+>>>>>>> origin/QLKH
