@@ -115,7 +115,7 @@
             this.tpTraPhong.Location = new System.Drawing.Point(4, 29);
             this.tpTraPhong.Margin = new System.Windows.Forms.Padding(4);
             this.tpTraPhong.Name = "tpTraPhong";
-            this.tpTraPhong.Size = new System.Drawing.Size(1339, 702);
+            this.tpTraPhong.Size = new System.Drawing.Size(1363, 840);
             this.tpTraPhong.TabIndex = 3;
             this.tpTraPhong.Text = "Trả Phòng";
             this.tpTraPhong.UseVisualStyleBackColor = true;
@@ -139,7 +139,7 @@
             this.groupBox9.Margin = new System.Windows.Forms.Padding(4);
             this.groupBox9.Name = "groupBox9";
             this.groupBox9.Padding = new System.Windows.Forms.Padding(4);
-            this.groupBox9.Size = new System.Drawing.Size(1277, 262);
+            this.groupBox9.Size = new System.Drawing.Size(1277, 323);
             this.groupBox9.TabIndex = 49;
             this.groupBox9.TabStop = false;
             this.groupBox9.Text = "Thông tin thuê phòng :";
@@ -148,11 +148,12 @@
             // 
             this.dgtraphong.BackgroundColor = System.Drawing.Color.White;
             this.dgtraphong.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgtraphong.Location = new System.Drawing.Point(8, 26);
+            this.dgtraphong.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.dgtraphong.Location = new System.Drawing.Point(4, 23);
             this.dgtraphong.Margin = new System.Windows.Forms.Padding(4);
             this.dgtraphong.Name = "dgtraphong";
             this.dgtraphong.RowHeadersWidth = 51;
-            this.dgtraphong.Size = new System.Drawing.Size(1261, 236);
+            this.dgtraphong.Size = new System.Drawing.Size(1269, 296);
             this.dgtraphong.TabIndex = 46;
             this.dgtraphong.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgtraphong_CellClick);
             // 
@@ -180,7 +181,7 @@
             this.groupBox8.Controls.Add(this.txtTPSoCMND);
             this.groupBox8.Controls.Add(this.txtTPSoDT);
             this.groupBox8.Controls.Add(this.txtTPDiaChi);
-            this.groupBox8.Location = new System.Drawing.Point(44, 318);
+            this.groupBox8.Location = new System.Drawing.Point(48, 395);
             this.groupBox8.Margin = new System.Windows.Forms.Padding(4);
             this.groupBox8.Name = "groupBox8";
             this.groupBox8.Padding = new System.Windows.Forms.Padding(4);
@@ -408,7 +409,7 @@
             this.TPTinhTien.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.TPTinhTien.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.TPTinhTien.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
-            this.TPTinhTien.Location = new System.Drawing.Point(607, 651);
+            this.TPTinhTien.Location = new System.Drawing.Point(611, 728);
             this.TPTinhTien.Margin = new System.Windows.Forms.Padding(4);
             this.TPTinhTien.Name = "TPTinhTien";
             this.TPTinhTien.Size = new System.Drawing.Size(107, 39);
@@ -426,7 +427,7 @@
             this.tpThuePhong.Margin = new System.Windows.Forms.Padding(4);
             this.tpThuePhong.Name = "tpThuePhong";
             this.tpThuePhong.Padding = new System.Windows.Forms.Padding(4);
-            this.tpThuePhong.Size = new System.Drawing.Size(1339, 702);
+            this.tpThuePhong.Size = new System.Drawing.Size(1371, 718);
             this.tpThuePhong.TabIndex = 1;
             this.tpThuePhong.Text = "Thuê Phòng";
             this.tpThuePhong.UseVisualStyleBackColor = true;
@@ -726,7 +727,7 @@
             this.tpDanhSanh.Margin = new System.Windows.Forms.Padding(4);
             this.tpDanhSanh.Name = "tpDanhSanh";
             this.tpDanhSanh.Padding = new System.Windows.Forms.Padding(4);
-            this.tpDanhSanh.Size = new System.Drawing.Size(1339, 702);
+            this.tpDanhSanh.Size = new System.Drawing.Size(1371, 718);
             this.tpDanhSanh.TabIndex = 0;
             this.tpDanhSanh.Text = "Danh Sách";
             this.tpDanhSanh.UseVisualStyleBackColor = true;
@@ -825,12 +826,13 @@
             this.Tabphong.Controls.Add(this.tpDanhSanh);
             this.Tabphong.Controls.Add(this.tpThuePhong);
             this.Tabphong.Controls.Add(this.tpTraPhong);
+            this.Tabphong.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Tabphong.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
-            this.Tabphong.Location = new System.Drawing.Point(16, 15);
+            this.Tabphong.Location = new System.Drawing.Point(0, 0);
             this.Tabphong.Margin = new System.Windows.Forms.Padding(4);
             this.Tabphong.Name = "Tabphong";
             this.Tabphong.SelectedIndex = 0;
-            this.Tabphong.Size = new System.Drawing.Size(1347, 735);
+            this.Tabphong.Size = new System.Drawing.Size(1371, 873);
             this.Tabphong.TabIndex = 0;
             this.Tabphong.Click += new System.EventHandler(this.Tabphong_Click);
             // 
@@ -839,7 +841,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoSize = true;
-            this.ClientSize = new System.Drawing.Size(1379, 751);
+            this.ClientSize = new System.Drawing.Size(1371, 873);
             this.Controls.Add(this.Tabphong);
             this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "frmmain";
