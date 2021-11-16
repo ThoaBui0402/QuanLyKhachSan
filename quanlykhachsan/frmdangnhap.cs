@@ -23,8 +23,8 @@ public frmdangnhap()
 
         private void btndangnhap_Click(object sender, EventArgs e)
         {
-
-            SqlConnection con = new SqlConnection(@"Data Source=DESKTOP-VPF0AQ3;Initial Catalog=quanlykhachsan;Integrated Security=True");
+           
+            SqlConnection con = new SqlConnection(@"Data Source=localhost\SQLEXPRESS01;Initial Catalog=quanlykhachsan;Integrated Security=True");
             SqlDataAdapter sda = new SqlDataAdapter("Select * From [dbo].[nguoidung] where taiKhoan = '" + txttaikhoan.Text + "' and matKhau = '" + txtmatkhau.Text + "'", con);
             DataTable dt = new DataTable();
             sda.Fill(dt);
