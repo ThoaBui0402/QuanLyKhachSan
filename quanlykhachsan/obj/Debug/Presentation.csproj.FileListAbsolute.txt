@@ -306,3 +306,4 @@ D:\ThucTapNhom\QuanLyKhachSan\quanlykhachsan\obj\Debug\quanlykhachsan.exe
 D:\ThucTapNhom\QuanLyKhachSan\quanlykhachsan\obj\Debug\quanlykhachsan.pdb
 D:\ThucTapNhom\QuanLyKhachSan\quanlykhachsan\obj\Debug\quanlykhachsan.fmHDSD.resources
 >>>>>>> origin/QLKH
+C:\Users\asus\Desktop\TTNhom\QLKS\QuanLyKhachSan\quanlykhachsan\obj\Debug\quanlykhachsan.fmHDSD.resources
