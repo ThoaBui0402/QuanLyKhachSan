@@ -7,41 +7,41 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using DAL;
 using System.Data.SqlClient;
-
+using DAL;
 namespace quanlykhachsan
 {
     public partial class frmdangnhap : Form
     {
-        public static frmnhanvien m_nhanvien;
-
-public frmdangnhap()
+        public static int ma;
+        public static frmnhanvien frm2 = null;
+        public frmdangnhap()
         {
             InitializeComponent();
         }
 
         private void btndangnhap_Click(object sender, EventArgs e)
         {
-
             SqlConnection con = new SqlConnection(@"Data Source=DESKTOP-J2GH96M\SQL15;Initial Catalog=quanlykhachsan;Integrated Security=True");
             SqlDataAdapter sda = new SqlDataAdapter("Select * From [dbo].[nguoidung] where taiKhoan = '" + txttaikhoan.Text + "' and matKhau = '" + txtmatkhau.Text + "'", con);
             DataTable dt = new DataTable();
             sda.Fill(dt);
             if ((dt.Rows).Count == 1)
             {
+                ma = int.Parse(dt.Rows[0][0].ToString());
                 this.Hide(); // Form Đăng Nhập sẽ ẩn đi => MainForm sẽ load lên
                 frmmainquanlykhachsan frm = new frmmainquanlykhachsan();
                 frm.Show();
-                if (dt.Rows[0][2].ToString() == "user")
+               
+                if (dt.Rows[0][2].ToString() != "user")
                 {
-                    m_nhanvien = null;
-
+                    frm2 = new frmnhanvien();
                 }
                 else
                 {
-                    m_nhanvien = new frmnhanvien();
+                    frm2 = null;
                 }
+
             }
             else
             {
@@ -56,7 +56,7 @@ public frmdangnhap()
                 frm.Show();
 
             }
-           
+            
         }
         private void trangthai( bool t)
         {

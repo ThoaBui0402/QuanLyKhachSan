@@ -13,9 +13,9 @@ namespace BLL
     {
         thuephongDAL tpDAL = new thuephongDAL();
 
-        public bool them_thuephong(int maKhachHang, DateTime ngayDen, int maPhong)
+        public bool them_thuephong(int maKhachHang, DateTime ngayDen, int maPhong, int maNhanVien)
         {
-            return tpDAL.them_thuephong(maKhachHang, ngayDen, maPhong);
+            return tpDAL.them_thuephong(maKhachHang, ngayDen, maPhong, maNhanVien);
         }
 
         public DataTable hienthi_thuetheophong()

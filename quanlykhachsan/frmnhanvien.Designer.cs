@@ -132,6 +132,7 @@
             this.btnthoat.TabIndex = 35;
             this.btnthoat.Text = "Thoát";
             this.btnthoat.UseVisualStyleBackColor = false;
+            this.btnthoat.Click += new System.EventHandler(this.btnthoat_Click);
             // 
             // btnluu
             // 
@@ -145,6 +146,7 @@
             this.btnluu.TabIndex = 34;
             this.btnluu.Text = "&Lưu";
             this.btnluu.UseVisualStyleBackColor = false;
+            this.btnluu.Click += new System.EventHandler(this.btnluu_Click);
             // 
             // btnxoa
             // 
@@ -158,6 +160,7 @@
             this.btnxoa.TabIndex = 33;
             this.btnxoa.Text = "&Xóa";
             this.btnxoa.UseVisualStyleBackColor = false;
+            this.btnxoa.Click += new System.EventHandler(this.btnxoa_Click);
             // 
             // btnsua
             // 
@@ -171,6 +174,7 @@
             this.btnsua.TabIndex = 32;
             this.btnsua.Text = "&Sửa";
             this.btnsua.UseVisualStyleBackColor = false;
+            this.btnsua.Click += new System.EventHandler(this.btnsua_Click);
             // 
             // label7
             // 
@@ -258,6 +262,7 @@
             this.dataGridView1.RowHeadersWidth = 51;
             this.dataGridView1.Size = new System.Drawing.Size(1053, 215);
             this.dataGridView1.TabIndex = 24;
+            this.dataGridView1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
             // 
             // maNhanVien
             // 
@@ -366,6 +371,7 @@
             this.btnthem.TabIndex = 49;
             this.btnthem.Text = "&Thêm";
             this.btnthem.UseVisualStyleBackColor = false;
+            this.btnthem.Click += new System.EventHandler(this.btnthem_Click);
             // 
             // cbgioitinh
             // 

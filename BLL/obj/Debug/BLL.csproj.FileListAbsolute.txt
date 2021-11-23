@@ -1,97 +1,14 @@
-D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\BLL\bin\Debug\BLL.dll
-D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\BLL\bin\Debug\BLL.pdb
-D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\BLL\bin\Debug\DAL.dll
-D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\BLL\bin\Debug\DAL.pdb
-D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
-D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\BLL\obj\Debug\BLL.dll
-D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\BLL\obj\Debug\BLL.pdb
-D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\BLL\bin\Debug\DTO.dll
-D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\BLL\bin\Debug\DTO.pdb
-D:\tai lieu\New folder\quanlykhachsan\BLL\bin\Debug\BLL.dll
-D:\tai lieu\New folder\quanlykhachsan\BLL\bin\Debug\BLL.pdb
-D:\tai lieu\New folder\quanlykhachsan\BLL\bin\Debug\DAL.dll
-D:\tai lieu\New folder\quanlykhachsan\BLL\bin\Debug\DTO.dll
-D:\tai lieu\New folder\quanlykhachsan\BLL\bin\Debug\DAL.pdb
-D:\tai lieu\New folder\quanlykhachsan\BLL\bin\Debug\DTO.pdb
-D:\tai lieu\New folder\quanlykhachsan\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
-D:\tai lieu\New folder\quanlykhachsan\BLL\obj\Debug\BLL.dll
-D:\tai lieu\New folder\quanlykhachsan\BLL\obj\Debug\BLL.pdb
-C:\Users\buith\OneDrive\Desktop\TT nhóm\QL.KhachSan\4\quanlykhachsan\BLL\bin\Debug\BLL.dll
-C:\Users\buith\OneDrive\Desktop\TT nhóm\QL.KhachSan\4\quanlykhachsan\BLL\bin\Debug\BLL.pdb
-C:\Users\buith\OneDrive\Desktop\TT nhóm\QL.KhachSan\4\quanlykhachsan\BLL\bin\Debug\DAL.dll
-C:\Users\buith\OneDrive\Desktop\TT nhóm\QL.KhachSan\4\quanlykhachsan\BLL\bin\Debug\DTO.dll
-C:\Users\buith\OneDrive\Desktop\TT nhóm\QL.KhachSan\4\quanlykhachsan\BLL\bin\Debug\DAL.pdb
-C:\Users\buith\OneDrive\Desktop\TT nhóm\QL.KhachSan\4\quanlykhachsan\BLL\bin\Debug\DTO.pdb
-C:\Users\buith\OneDrive\Desktop\TT nhóm\QL.KhachSan\4\quanlykhachsan\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
-C:\Users\buith\OneDrive\Desktop\TT nhóm\QL.KhachSan\4\quanlykhachsan\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
-C:\Users\buith\OneDrive\Desktop\TT nhóm\QL.KhachSan\4\quanlykhachsan\BLL\obj\Debug\BLL.csproj.CopyComplete
-C:\Users\buith\OneDrive\Desktop\TT nhóm\QL.KhachSan\4\quanlykhachsan\BLL\obj\Debug\BLL.dll
-C:\Users\buith\OneDrive\Desktop\TT nhóm\QL.KhachSan\4\quanlykhachsan\BLL\obj\Debug\BLL.pdb
-D:\Nam 4\Ky_1\TT NHom\ttnhom\quanlykhachsan\BLL\bin\Debug\BLL.dll
-D:\Nam 4\Ky_1\TT NHom\ttnhom\quanlykhachsan\BLL\bin\Debug\BLL.pdb
-D:\Nam 4\Ky_1\TT NHom\ttnhom\quanlykhachsan\BLL\bin\Debug\DAL.dll
-D:\Nam 4\Ky_1\TT NHom\ttnhom\quanlykhachsan\BLL\bin\Debug\DTO.dll
-D:\Nam 4\Ky_1\TT NHom\ttnhom\quanlykhachsan\BLL\bin\Debug\DAL.pdb
-D:\Nam 4\Ky_1\TT NHom\ttnhom\quanlykhachsan\BLL\bin\Debug\DTO.pdb
-D:\Nam 4\Ky_1\TT NHom\ttnhom\quanlykhachsan\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
-D:\Nam 4\Ky_1\TT NHom\ttnhom\quanlykhachsan\BLL\obj\Debug\BLL.dll
-D:\Nam 4\Ky_1\TT NHom\ttnhom\quanlykhachsan\BLL\obj\Debug\BLL.pdb
-C:\Users\Nylk\Desktop\Học kì 6\TT NHom\TTNhom_GitHub\quanlykhachsan\BLL\bin\Debug\BLL.dll
-C:\Users\Nylk\Desktop\Học kì 6\TT NHom\TTNhom_GitHub\quanlykhachsan\BLL\bin\Debug\BLL.pdb
-C:\Users\Nylk\Desktop\Học kì 6\TT NHom\TTNhom_GitHub\quanlykhachsan\BLL\bin\Debug\DAL.dll
-C:\Users\Nylk\Desktop\Học kì 6\TT NHom\TTNhom_GitHub\quanlykhachsan\BLL\bin\Debug\DTO.dll
-C:\Users\Nylk\Desktop\Học kì 6\TT NHom\TTNhom_GitHub\quanlykhachsan\BLL\bin\Debug\DAL.pdb
-C:\Users\Nylk\Desktop\Học kì 6\TT NHom\TTNhom_GitHub\quanlykhachsan\BLL\bin\Debug\DTO.pdb
-C:\Users\Nylk\Desktop\Học kì 6\TT NHom\TTNhom_GitHub\quanlykhachsan\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
-C:\Users\Nylk\Desktop\Học kì 6\TT NHom\TTNhom_GitHub\quanlykhachsan\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
-C:\Users\Nylk\Desktop\Học kì 6\TT NHom\TTNhom_GitHub\quanlykhachsan\BLL\obj\Debug\BLL.csproj.CopyComplete
-C:\Users\Nylk\Desktop\Học kì 6\TT NHom\TTNhom_GitHub\quanlykhachsan\BLL\obj\Debug\BLL.dll
-C:\Users\Nylk\Desktop\Học kì 6\TT NHom\TTNhom_GitHub\quanlykhachsan\BLL\obj\Debug\BLL.pdb
-C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\quanlykhachsan\BLL\bin\Debug\BLL.dll
-C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\quanlykhachsan\BLL\bin\Debug\BLL.pdb
-C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\quanlykhachsan\BLL\bin\Debug\DAL.dll
-C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\quanlykhachsan\BLL\bin\Debug\DTO.dll
-C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\quanlykhachsan\BLL\bin\Debug\DAL.pdb
-C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\quanlykhachsan\BLL\bin\Debug\DTO.pdb
-C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\quanlykhachsan\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
-C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\quanlykhachsan\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
-C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\quanlykhachsan\BLL\obj\Debug\BLL.csproj.CopyComplete
-C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\quanlykhachsan\BLL\obj\Debug\BLL.dll
-C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\quanlykhachsan\BLL\obj\Debug\BLL.pdb
-D:\Documents\Downloads\TTNhom_GitHub\quanlykhachsan\BLL\bin\Debug\BLL.dll
-D:\Documents\Downloads\TTNhom_GitHub\quanlykhachsan\BLL\bin\Debug\BLL.pdb
-D:\Documents\Downloads\TTNhom_GitHub\quanlykhachsan\BLL\bin\Debug\DAL.dll
-D:\Documents\Downloads\TTNhom_GitHub\quanlykhachsan\BLL\bin\Debug\DTO.dll
-D:\Documents\Downloads\TTNhom_GitHub\quanlykhachsan\BLL\bin\Debug\DAL.pdb
-D:\Documents\Downloads\TTNhom_GitHub\quanlykhachsan\BLL\bin\Debug\DTO.pdb
-D:\Documents\Downloads\TTNhom_GitHub\quanlykhachsan\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
-D:\Documents\Downloads\TTNhom_GitHub\quanlykhachsan\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
-D:\Documents\Downloads\TTNhom_GitHub\quanlykhachsan\BLL\obj\Debug\BLL.csproj.CopyComplete
-D:\Documents\Downloads\TTNhom_GitHub\quanlykhachsan\BLL\obj\Debug\BLL.dll
-D:\Documents\Downloads\TTNhom_GitHub\quanlykhachsan\BLL\obj\Debug\BLL.pdb
-C:\Users\asus\Desktop\quanlykhachsan\BLL\bin\Debug\BLL.dll
-C:\Users\asus\Desktop\quanlykhachsan\BLL\bin\Debug\BLL.pdb
-C:\Users\asus\Desktop\quanlykhachsan\BLL\bin\Debug\DAL.dll
-C:\Users\asus\Desktop\quanlykhachsan\BLL\bin\Debug\DTO.dll
-C:\Users\asus\Desktop\quanlykhachsan\BLL\bin\Debug\DAL.pdb
-C:\Users\asus\Desktop\quanlykhachsan\BLL\bin\Debug\DTO.pdb
-C:\Users\asus\Desktop\quanlykhachsan\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
-C:\Users\asus\Desktop\quanlykhachsan\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
-C:\Users\asus\Desktop\quanlykhachsan\BLL\obj\Debug\BLL.csproj.CopyComplete
-C:\Users\asus\Desktop\quanlykhachsan\BLL\obj\Debug\BLL.dll
-C:\Users\asus\Desktop\quanlykhachsan\BLL\obj\Debug\BLL.pdb
-C:\Users\asus\Desktop\QLKS\QuanLyKhachSan\BLL\bin\Debug\BLL.dll
-C:\Users\asus\Desktop\QLKS\QuanLyKhachSan\BLL\bin\Debug\BLL.pdb
-C:\Users\asus\Desktop\QLKS\QuanLyKhachSan\BLL\bin\Debug\DAL.dll
-C:\Users\asus\Desktop\QLKS\QuanLyKhachSan\BLL\bin\Debug\DTO.dll
-C:\Users\asus\Desktop\QLKS\QuanLyKhachSan\BLL\bin\Debug\DAL.pdb
-C:\Users\asus\Desktop\QLKS\QuanLyKhachSan\BLL\bin\Debug\DTO.pdb
-C:\Users\asus\Desktop\QLKS\QuanLyKhachSan\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
-C:\Users\asus\Desktop\QLKS\QuanLyKhachSan\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
-C:\Users\asus\Desktop\QLKS\QuanLyKhachSan\BLL\obj\Debug\BLL.csproj.CopyComplete
-C:\Users\asus\Desktop\QLKS\QuanLyKhachSan\BLL\obj\Debug\BLL.dll
-C:\Users\asus\Desktop\QLKS\QuanLyKhachSan\BLL\obj\Debug\BLL.pdb
-<<<<<<< HEAD
+D:\Ky1nam4\TTN\github\QuanLyKhachSan\BLL\bin\Debug\BLL.dll
+D:\Ky1nam4\TTN\github\QuanLyKhachSan\BLL\bin\Debug\BLL.pdb
+D:\Ky1nam4\TTN\github\QuanLyKhachSan\BLL\bin\Debug\DAL.dll
+D:\Ky1nam4\TTN\github\QuanLyKhachSan\BLL\bin\Debug\DTO.dll
+D:\Ky1nam4\TTN\github\QuanLyKhachSan\BLL\bin\Debug\DAL.pdb
+D:\Ky1nam4\TTN\github\QuanLyKhachSan\BLL\bin\Debug\DTO.pdb
+D:\Ky1nam4\TTN\github\QuanLyKhachSan\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Ky1nam4\TTN\github\QuanLyKhachSan\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Ky1nam4\TTN\github\QuanLyKhachSan\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Ky1nam4\TTN\github\QuanLyKhachSan\BLL\obj\Debug\BLL.dll
+D:\Ky1nam4\TTN\github\QuanLyKhachSan\BLL\obj\Debug\BLL.pdb
 C:\Users\asus\Desktop\TTNhom\QLKS\QuanLyKhachSan\BLL\bin\Debug\BLL.dll
 C:\Users\asus\Desktop\TTNhom\QLKS\QuanLyKhachSan\BLL\bin\Debug\BLL.pdb
 C:\Users\asus\Desktop\TTNhom\QLKS\QuanLyKhachSan\BLL\bin\Debug\DAL.dll
@@ -103,27 +20,3 @@ C:\Users\asus\Desktop\TTNhom\QLKS\QuanLyKhachSan\BLL\obj\Debug\BLL.csproj.CoreCo
 C:\Users\asus\Desktop\TTNhom\QLKS\QuanLyKhachSan\BLL\obj\Debug\BLL.csproj.CopyComplete
 C:\Users\asus\Desktop\TTNhom\QLKS\QuanLyKhachSan\BLL\obj\Debug\BLL.dll
 C:\Users\asus\Desktop\TTNhom\QLKS\QuanLyKhachSan\BLL\obj\Debug\BLL.pdb
-=======
-D:\QLKS\QuanLyKhachSan\BLL\bin\Debug\BLL.dll
-D:\QLKS\QuanLyKhachSan\BLL\bin\Debug\BLL.pdb
-D:\QLKS\QuanLyKhachSan\BLL\bin\Debug\DAL.dll
-D:\QLKS\QuanLyKhachSan\BLL\bin\Debug\DTO.dll
-D:\QLKS\QuanLyKhachSan\BLL\bin\Debug\DAL.pdb
-D:\QLKS\QuanLyKhachSan\BLL\bin\Debug\DTO.pdb
-D:\QLKS\QuanLyKhachSan\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
-D:\QLKS\QuanLyKhachSan\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
-D:\QLKS\QuanLyKhachSan\BLL\obj\Debug\BLL.csproj.CopyComplete
-D:\QLKS\QuanLyKhachSan\BLL\obj\Debug\BLL.dll
-D:\QLKS\QuanLyKhachSan\BLL\obj\Debug\BLL.pdb
-D:\ThucTapNhom\QuanLyKhachSan\BLL\bin\Debug\BLL.dll
-D:\ThucTapNhom\QuanLyKhachSan\BLL\bin\Debug\BLL.pdb
-D:\ThucTapNhom\QuanLyKhachSan\BLL\bin\Debug\DAL.dll
-D:\ThucTapNhom\QuanLyKhachSan\BLL\bin\Debug\DTO.dll
-D:\ThucTapNhom\QuanLyKhachSan\BLL\bin\Debug\DAL.pdb
-D:\ThucTapNhom\QuanLyKhachSan\BLL\bin\Debug\DTO.pdb
-D:\ThucTapNhom\QuanLyKhachSan\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
-D:\ThucTapNhom\QuanLyKhachSan\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
-D:\ThucTapNhom\QuanLyKhachSan\BLL\obj\Debug\BLL.csproj.CopyComplete
-D:\ThucTapNhom\QuanLyKhachSan\BLL\obj\Debug\BLL.dll
-D:\ThucTapNhom\QuanLyKhachSan\BLL\obj\Debug\BLL.pdb
->>>>>>> origin/QLKH

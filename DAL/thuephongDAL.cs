@@ -10,14 +10,14 @@ namespace DAL
 {
    public class thuephongDAL
     {
-        public bool them_thuephong(int maKhachHang, DateTime ngayDen, int maPhong)
+        public bool them_thuephong(int maKhachHang, DateTime ngayDen, int maPhong, int maNhanVien)
         {
             SqlConnection cnn = ketnoi.Get();
             SqlCommand cmd = new SqlCommand("them_thuephong", cnn);
             cmd.CommandType = CommandType.StoredProcedure;
             cmd.Parameters.AddWithValue("maKhachHang", maKhachHang);
             cmd.Parameters.AddWithValue("ngayDen", ngayDen);
-
+            cmd.Parameters.AddWithValue("maNhanVien", maNhanVien);
             cmd.Parameters.AddWithValue("maPhong", maPhong);
 
             int i = cmd.ExecuteNonQuery();

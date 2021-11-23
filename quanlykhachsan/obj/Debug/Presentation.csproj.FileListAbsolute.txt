@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\quanlykhachsan\bin\Debug\quanlykhachsan.exe.config
 D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.exe
 D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.pdb
@@ -227,7 +228,6 @@ C:\Users\asus\Desktop\QLKS\QuanLyKhachSan\quanlykhachsan\obj\Debug\Presentation.
 C:\Users\asus\Desktop\QLKS\QuanLyKhachSan\quanlykhachsan\obj\Debug\Presentation.csproj.CopyComplete
 C:\Users\asus\Desktop\QLKS\QuanLyKhachSan\quanlykhachsan\obj\Debug\quanlykhachsan.exe
 C:\Users\asus\Desktop\QLKS\QuanLyKhachSan\quanlykhachsan\obj\Debug\quanlykhachsan.pdb
-<<<<<<< HEAD
 C:\Users\asus\Desktop\TTNhom\QLKS\QuanLyKhachSan\quanlykhachsan\bin\Debug\quanlykhachsan.exe.config
 C:\Users\asus\Desktop\TTNhom\QLKS\QuanLyKhachSan\quanlykhachsan\bin\Debug\quanlykhachsan.exe
 C:\Users\asus\Desktop\TTNhom\QLKS\QuanLyKhachSan\quanlykhachsan\bin\Debug\quanlykhachsan.pdb
@@ -307,3 +307,30 @@ D:\ThucTapNhom\QuanLyKhachSan\quanlykhachsan\obj\Debug\quanlykhachsan.pdb
 D:\ThucTapNhom\QuanLyKhachSan\quanlykhachsan\obj\Debug\quanlykhachsan.fmHDSD.resources
 >>>>>>> origin/QLKH
 C:\Users\asus\Desktop\TTNhom\QLKS\QuanLyKhachSan\quanlykhachsan\obj\Debug\quanlykhachsan.fmHDSD.resources
+D:\Ky1nam4\TTN\github\QuanLyKhachSan\quanlykhachsan\bin\Debug\quanlykhachsan.exe.config
+D:\Ky1nam4\TTN\github\QuanLyKhachSan\quanlykhachsan\bin\Debug\quanlykhachsan.exe
+D:\Ky1nam4\TTN\github\QuanLyKhachSan\quanlykhachsan\bin\Debug\quanlykhachsan.pdb
+D:\Ky1nam4\TTN\github\QuanLyKhachSan\quanlykhachsan\bin\Debug\BLL.dll
+D:\Ky1nam4\TTN\github\QuanLyKhachSan\quanlykhachsan\bin\Debug\DAL.dll
+D:\Ky1nam4\TTN\github\QuanLyKhachSan\quanlykhachsan\bin\Debug\DTO.dll
+D:\Ky1nam4\TTN\github\QuanLyKhachSan\quanlykhachsan\bin\Debug\BLL.pdb
+D:\Ky1nam4\TTN\github\QuanLyKhachSan\quanlykhachsan\bin\Debug\DAL.pdb
+D:\Ky1nam4\TTN\github\QuanLyKhachSan\quanlykhachsan\bin\Debug\DTO.pdb
+D:\Ky1nam4\TTN\github\QuanLyKhachSan\quanlykhachsan\bin\Debug\Telerik.WinControls.xml
+D:\Ky1nam4\TTN\github\QuanLyKhachSan\quanlykhachsan\bin\Debug\Telerik.WinControls.UI.xml
+D:\Ky1nam4\TTN\github\QuanLyKhachSan\quanlykhachsan\obj\Debug\Presentation.csproj.AssemblyReference.cache
+D:\Ky1nam4\TTN\github\QuanLyKhachSan\quanlykhachsan\obj\Debug\quanlykhachsan.fmHDSD.resources
+D:\Ky1nam4\TTN\github\QuanLyKhachSan\quanlykhachsan\obj\Debug\quanlykhachsan.frmdangnhap.resources
+D:\Ky1nam4\TTN\github\QuanLyKhachSan\quanlykhachsan\obj\Debug\quanlykhachsan.frmkhachhang.resources
+D:\Ky1nam4\TTN\github\QuanLyKhachSan\quanlykhachsan\obj\Debug\quanlykhachsan.frmmain.resources
+D:\Ky1nam4\TTN\github\QuanLyKhachSan\quanlykhachsan\obj\Debug\quanlykhachsan.frmnhanvien.resources
+D:\Ky1nam4\TTN\github\QuanLyKhachSan\quanlykhachsan\obj\Debug\quanlykhachsan.frmthongtinphong.resources
+D:\Ky1nam4\TTN\github\QuanLyKhachSan\quanlykhachsan\obj\Debug\quanlykhachsan.frmthongtinpphongkh.resources
+D:\Ky1nam4\TTN\github\QuanLyKhachSan\quanlykhachsan\obj\Debug\quanlykhachsan.Properties.Resources.resources
+D:\Ky1nam4\TTN\github\QuanLyKhachSan\quanlykhachsan\obj\Debug\quanlykhachsan.frmmainquanlykhachsan.resources
+D:\Ky1nam4\TTN\github\QuanLyKhachSan\quanlykhachsan\obj\Debug\Presentation.csproj.GenerateResource.cache
+D:\Ky1nam4\TTN\github\QuanLyKhachSan\quanlykhachsan\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+D:\Ky1nam4\TTN\github\QuanLyKhachSan\quanlykhachsan\obj\Debug\Presentation.csproj.CopyComplete
+D:\Ky1nam4\TTN\github\QuanLyKhachSan\quanlykhachsan\obj\Debug\quanlykhachsan.exe
+D:\Ky1nam4\TTN\github\QuanLyKhachSan\quanlykhachsan\obj\Debug\quanlykhachsan.pdb
+>>>>>>> origin/tinhtien

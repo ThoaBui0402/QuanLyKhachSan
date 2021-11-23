@@ -108,6 +108,7 @@
     <Compile Include="frmmainquanlykhachsan.Designer.cs">
       <DependentUpon>frmmainquanlykhachsan.cs</DependentUpon>
     </Compile>
+    <Compile Include="Settings.cs" />
     <EmbeddedResource Include="fmHDSD.resx">
       <DependentUpon>fmHDSD.cs</DependentUpon>
     </EmbeddedResource>
@@ -159,6 +160,9 @@
     <None Include="Resources\user_icon.png" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Resources\83880555_777280132756551_4030681684646035456_o.jpg" />
+  </ItemGroup>
+  <ItemGroup>
     <ProjectReference Include="..\BLL\BLL.csproj">
       <Project>{1a4ce945-cc13-4753-812b-91141f7b8628}</Project>
       <Name>BLL</Name>
@@ -171,9 +175,6 @@
       <Project>{230c9e97-76f0-4775-9a6f-041e824d0a91}</Project>
       <Name>DTO</Name>
     </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\83880555_777280132756551_4030681684646035456_o.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

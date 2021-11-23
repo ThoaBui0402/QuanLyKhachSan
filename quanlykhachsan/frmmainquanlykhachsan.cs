@@ -49,16 +49,23 @@ namespace quanlykhachsan
 
         private void quảnLýThôngTinKháchHàngToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            frmkhachhang frm = new frmkhachhang();
-            frm.MdiParent = this;
-            frm.Show();
+            
+                frmkhachhang frm1 = new frmkhachhang();
+                  frm1.MdiParent = this;
+                  frm1.Show();
+
         }
 
         private void quảnLýNhânViênToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            frmnhanvien frm = new frmnhanvien();
-            frm.MdiParent = this;
-            frm.Show();
+
+            frmnhanvien frm2 = frmdangnhap.frm2;
+            if(frm2 != null){
+                frm2.MdiParent = this;
+                frm2.Show();
+            }
+                
+
         }
 
         private void hướngDẫnSửDụngToolStripMenuItem_Click(object sender, EventArgs e)
