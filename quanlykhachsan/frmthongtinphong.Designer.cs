@@ -237,6 +237,7 @@
                this.GridView.RowHeadersWidth = 51;
                this.GridView.Size = new System.Drawing.Size(1029, 218);
                this.GridView.TabIndex = 53;
+               this.GridView.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView2_CellClick);
                // 
                // maPhong
                // 

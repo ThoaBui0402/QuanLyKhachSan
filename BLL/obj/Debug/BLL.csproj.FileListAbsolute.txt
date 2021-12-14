@@ -9,3 +9,14 @@ D:\Ky1nam4\TTN\github\QuanLyKhachSan\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.
 D:\Ky1nam4\TTN\github\QuanLyKhachSan\BLL\obj\Debug\BLL.csproj.CopyComplete
 D:\Ky1nam4\TTN\github\QuanLyKhachSan\BLL\obj\Debug\BLL.dll
 D:\Ky1nam4\TTN\github\QuanLyKhachSan\BLL\obj\Debug\BLL.pdb
+D:\TT_Nhom\CloneGit\QLKS\BLL\bin\Debug\BLL.dll
+D:\TT_Nhom\CloneGit\QLKS\BLL\bin\Debug\BLL.pdb
+D:\TT_Nhom\CloneGit\QLKS\BLL\bin\Debug\DAL.dll
+D:\TT_Nhom\CloneGit\QLKS\BLL\bin\Debug\DTO.dll
+D:\TT_Nhom\CloneGit\QLKS\BLL\bin\Debug\DAL.pdb
+D:\TT_Nhom\CloneGit\QLKS\BLL\bin\Debug\DTO.pdb
+D:\TT_Nhom\CloneGit\QLKS\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\TT_Nhom\CloneGit\QLKS\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\TT_Nhom\CloneGit\QLKS\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\TT_Nhom\CloneGit\QLKS\BLL\obj\Debug\BLL.dll
+D:\TT_Nhom\CloneGit\QLKS\BLL\obj\Debug\BLL.pdb
