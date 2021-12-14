@@ -12,7 +12,7 @@ namespace DAL
         public static SqlConnection Get()
         {
             SqlConnection cnn = new SqlConnection();
-            cnn.ConnectionString = @"Data Source=localhost\SQLEXPRESS01;Initial Catalog=quanlykhachsan;Integrated Security=True";
+            cnn.ConnectionString = @"Data Source=LAPTOP-HI22LHQT\DIEP;Initial Catalog=quanlykhachsan;Integrated Security=True";
             cnn.Open();
             return cnn;
         }

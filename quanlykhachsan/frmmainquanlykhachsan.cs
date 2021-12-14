@@ -42,7 +42,7 @@ namespace quanlykhachsan
 
         private void quảnLýPhòngToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            frmthongtinpphongkh frm = new frmthongtinpphongkh();
+            frmthongtinphong frm = new frmthongtinphong();
             frm.MdiParent = this;
             frm.Show();
         }
